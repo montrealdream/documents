@@ -1,0 +1,25 @@
+
+------------------------------- CÁC BƯỚC KHỞI TẠO CHƯƠNG TRÌNH MẶC ĐỊNH -----------------------------------
+(1) Cài đặt NPM - npm install hoặc npm install -y
+
+(2) Cài đặt Expressjs - npm install express
+
+(3) Lên trang chủ Expressjs copy đoạn code helloword vào (chương trình demo)
+
+(4) Cài đặt Nodemon - npm install --save-dev nodemon
+
+(5) Sau khi cài đặt Nodemon thì thêm "start":"nodemon --inspect index.js" vào package.json
+
+(6) Test chương trình demo ở bước 3
+
+----------------------------------------  CẤU TRÚC THƯ MỤC ROUTE -------------------------------------------
+(1) Tạo thư mục routes
+
+(2) Tạo thư mục admin hoặc client trong routes (tùy theo hướng)
+
+(3) Xây dựng file index.route.js 
+
+(4) Xây dựng file dashboard.route.js (nếu theo hướng admin trước)
+
+--------------------------------------  CẤU TRÚC THƯ MỤC CONTROLLER --------------------------------------
+

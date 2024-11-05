@@ -1,0 +1,1 @@
+mặc định của pesuedo element có display là inline

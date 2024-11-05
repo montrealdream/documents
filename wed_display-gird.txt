@@ -1,0 +1,15 @@
+display: grid;
+grid-template-columns : repeat(3, 1fr);
+gap: 20px;
+
+
+// giải thích
+display: grid dùng để chia lưới
+
+repeat(3, 1fr   nghĩa là 3 cột, 1fr là 3 cột bằng nhau
+
+có thể ghi lại là 1fr, 1fr, 1fr
+
+grid-template-columns: 1fr, 1fr, 1fr
+
+hoặc grid-template-columns: repeat(3, 1fr)
